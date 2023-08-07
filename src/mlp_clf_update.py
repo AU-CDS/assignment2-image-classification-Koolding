@@ -1,13 +1,3 @@
-"""
-This script trains a MLPClassifier on a dataset called CIFAR-10.
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class.
-For further information about the dataset check: https://www.cs.toronto.edu/~kriz/cifar.html
-
-Please make sure the required packages have been installed by running the setup script from command line like so:
-
-bash setup.sh
-"""
-
 # IMPORTING PACKAGES
 # path tools
 import os
